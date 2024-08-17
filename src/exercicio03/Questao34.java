@@ -3,7 +3,6 @@ package exercicio03;
 import java.util.Random;
 
 public class Questao34 {
-
     public static void main(String[] args) {
         Random random = new Random();
 
