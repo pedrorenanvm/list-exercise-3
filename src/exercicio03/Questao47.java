@@ -71,8 +71,6 @@ public class Questao47 {
         System.out.println("Nome do paciente mais velho: " + nomeMaisVelho);
         System.out.println("Nome da mulher mais baixa: " + nomeMulherMaisBaixa);
 
-        int contadorPesoAbaixo50 = 0;
-
         scanner.close();
     }
 }
