@@ -1,4 +1,4 @@
-package questoes23_33;
+package exercicio03;
 
 public class Questao32 {
 	public static void main(String[] args) {

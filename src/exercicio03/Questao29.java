@@ -1,4 +1,4 @@
-package questoes23_33;
+package exercicio03;
 import java.util.Scanner;
 
 public class Questao29 {
