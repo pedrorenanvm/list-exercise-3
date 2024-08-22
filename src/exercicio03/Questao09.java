@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 //Verifique se o usuário é maior de idade ou não.
 
-public class Questao9 {
+public class Questao09 {
 
     public static void main(String[] args) {
             Scanner read = new Scanner(System.in);

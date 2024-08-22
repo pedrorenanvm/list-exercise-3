@@ -3,7 +3,7 @@ package exercicio03;
 //bibliotecas...
 import java.util.Scanner;
 //Determine e exiba a média aritmética de um aluno a partir de suas 4 notas.
-public class Questao4 {
+public class Questao04 {
 
     public static void main(String[] args) {
         Scanner read = new Scanner(System.in);

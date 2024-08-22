@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 //Solicite a quantidade de homens e de mulheres de uma turma da faculdade. Em seguida calcule e exiba o percentual (separadamente) de homens e mulheres desta turma.
 
-public class Questao3 {
+public class Questao03 {
 
     public static void main(String[] args) {
             Scanner read = new Scanner(System.in);

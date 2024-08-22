@@ -4,7 +4,7 @@ import java.util.Scanner;
 
  //Transforme um número Racional (formado por numerador e denominador) para um número Real. Antes de dividir, verifique se o denominador é diferente de zero. Emita uma mensagem de alerta ao usuário se for zero.
 
-public class Questao8 {
+public class Questao08 {
   
     public static void main(String[] args) {
         Scanner read = new Scanner(System.in);

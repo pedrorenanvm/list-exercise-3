@@ -6,7 +6,7 @@ package exercicio03;
 import java.util.Scanner;
 
 
-public class Questao1 {
+public class Questao01 {
     public static void main(String[] args) {
         Scanner read = new Scanner(System.in);
         
